@@ -20,3 +20,42 @@ authentication ensures data privacy and
 protection. The portal also includes a
 dashboard for users to manage their job
 postings and applications seamlessly.
+
+Features :
+
+*User Authentication
+User registration and
+loginT
+X Secure password storage
+and authentication
+~T Job Searc{
+X Simple search
+functionality for job
+seekers to find listingsT
+X Basic search filters such
+as job type, location, and
+keyword.
+
+T Profile Managemen
+X Job seeker profiles with
+personal information,
+resume upload, and
+contact detailsT
+X Employer profiles with
+company information and
+contact details.
+ÀT Job Applicatio\
+X Job seekers can apply
+for jobs directly through
+the portalT
+X Employers can view
+applications and
+manage candidates.
+
+áT Job ListingÝ
+X Employers can create, edit,
+and delete job listingsT
+X Job listings include job title,
+description, qualifications,
+responsibilities, location,
+and salary range
