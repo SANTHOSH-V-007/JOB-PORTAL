@@ -26,5 +26,44 @@ Features :
 1. User Authentication
   * User registration and
 login
+
   * Secure password storage
 and authentication
+
+2. Profile Management
+ * Job seeker profiles with
+personal information,
+resume upload, and
+contact details
+
+ * Employer profiles with
+company information and
+contact details.
+
+3. Job Listing
+ * Employers can create, edit,
+and delete job listings
+
+ * Job listings include job title,
+description, qualifications,
+responsibilities, location,
+and salary range.
+
+4. Job Search
+ * Simple search
+functionality for job
+seekers to find listings.
+
+ * Basic search filters such
+as job type, location, and
+keyword.
+
+5. Job Application
+
+ * Job seekers can apply
+for jobs directly through
+the portal.
+
+ * Employers can view
+applications and
+manage candidates.
